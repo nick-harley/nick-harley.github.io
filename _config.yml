@@ -16,4 +16,5 @@ include:
 theme: minima
 description: Personal web page.
 logo: logo.png
+title: Nicholas Harley
 show_downloads: "true"
