@@ -13,7 +13,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-minimal
+theme: minima
 description: Personal web page.
 logo: logo.png
 show_downloads: "true"
