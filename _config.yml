@@ -1,17 +1,25 @@
-plugins:
-  - jekyll-relative-links
-  - jekyll-jupyter-notebook
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+title: Nicholas Harley
+author:
+  name: Nicholas Harley
+  email: nicholas.harley@vub.be
+description: > # The personal web site of Nicholas Harley
+
+header_pages:
+  - research.md
+  - publications.md
+  - blog.md
+  - cv.md
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    github:  n-harley
+
+# Build settings
 theme: minima
-show_downloads: "true"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
