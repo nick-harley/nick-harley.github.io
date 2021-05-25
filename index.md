@@ -1,4 +1,7 @@
-# Nicholas Harley, PhD
+---
+layout: home
+---
+
 
 ## Bio 
 
