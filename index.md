@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 <img src="nick2.jpg" alt="nick" width="200"/>
