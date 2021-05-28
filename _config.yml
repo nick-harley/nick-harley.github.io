@@ -6,7 +6,6 @@ author:
 header_pages:
   - research.md
   - publications.md
-  - blog.md
   - cv.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
