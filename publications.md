@@ -3,10 +3,11 @@ layout: page
 title: Publications
 ---
 
-Harley, N. & Wiggins, G. A. (2022). Common Hierarchical Abstract Knowledge Representa- tion for Anything: Integration and reasoning with heterogeneous knowledge sources using dependent type theory.
+(IN PROGRESS) Harley, N. & Wiggins, G. A. (2022). Common Hierarchical Abstract Knowledge Representa- tion for Anything: Integration and reasoning with heterogeneous knowledge sources using dependent type theory.
 
-Harley, N. & Wiggins, G. A. (2022). Abstract representation of musical knowledge for collab- orative scholarship.
-Wiggins, G. A., Homer, S., Harley, N. & Loro Velardo, F. (2022). A new approach to oscillatory representations of percepts and sequential abstract predictive knowledge in music. Journal of Cognition.
+(IN PROGRESS) Harley, N. & Wiggins, G. A. (2022). Abstract representation of musical knowledge for collab- orative scholarship.
+
+(IN PROGRESS) Wiggins, G. A., Homer, S., Harley, N. & Loro Velardo, F. (2022). A new approach to oscillatory representations of percepts and sequential abstract predictive knowledge in music. Journal of Cognition.
 
 Carnovalini, F., Harley, N., Homer, S. T., Rodà, A. & Wiggins, G. A. (2021). Meta-Evaluating Quantitative Internal Evaluation: A Practical Approach for Developers. In Proceedings of the 12th International Conference on Computational Creativity (ICCC ’21), (pp. 213-217).
 
